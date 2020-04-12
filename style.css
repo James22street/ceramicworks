@@ -192,7 +192,7 @@ body {
   hr.image1 { /*dummy content*/
     padding: 1em;
     padding-bottom: 50%;
-    background-image: url('/Images/ceramic1.jpg');
+    background-image: url('Images/ceramic1.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     
